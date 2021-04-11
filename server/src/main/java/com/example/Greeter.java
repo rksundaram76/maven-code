@@ -15,6 +15,7 @@ public class Greeter {
   //TODO: Add javadoc comment
   public String greet(String someone) {
 	  String Str= "NewLine Added";
+	  String str1 = " One More line Added";
     return String.format("Hello, %s!", someone);
   }
 }
